@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+### 不要吹灭你的灵感和你的想象力; 不要成为你的模型的奴隶。 ——文森特・梵高
+
 <!--
 **zhoukingzz/zhoukingzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
